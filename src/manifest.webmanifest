@@ -1,7 +1,7 @@
 {
   "name": "pwa_angular",
   "short_name": "pwa_angular",
-  "theme_color": "#1976d2",
+  "theme_color": "#e75c40",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
